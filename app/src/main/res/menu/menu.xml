@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <group android:id="@+id/group2" >
+        <item
+            android:id="@+id/UnknownWord"
+            android:title="生词本">
+        </item>
+        <item
+            android:id="@+id/clearHistory"
+            android:title="删除所有历史记录">
+        </item>
+    </group>
+
+</menu>
